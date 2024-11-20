@@ -6,7 +6,7 @@ A Python implementation of optimal trajectory planning for autonomous vehicle pa
 
 ## Features
 
-- **Optimal Trajectory Planning**: Implements nonlinear optimization for finding optimal parking paths
+- **Optimal Trajectory Planning**: Implements Direct Multiple Shooting method for finding optimal parking paths
 - **Realistic Vehicle Dynamics**: Uses bicycle model with kinematic constraints
 - **Collision Avoidance**: 
   - Handles multiple static obstacles
