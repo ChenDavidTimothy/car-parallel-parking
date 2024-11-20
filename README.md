@@ -2,7 +2,7 @@
 
 A Python implementation of optimal trajectory planning for autonomous vehicle parallel parking. This project provides robust path optimization with collision avoidance capabilities and stunning 2D visualizations of the parking maneuver with steering wheel feedback.
 
-![Parking Animation](animations/output_animation.gif)
+![Parking Animation](animations/car.gif)
 
 ## Features
 
